@@ -1,4 +1,4 @@
-### happiness-analysis
+## happiness-analysis
 What makes people of a country happy? Using Python libraries, we can manipulate data and extrapolate meaningful conclusions.\
 This repository consists of an .ipynb and .py file that document the process a data scientist normally goes through to draw trends.\
 This project was constructed and is intended to be viewed with Google Colab.\
