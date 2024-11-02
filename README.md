@@ -10,6 +10,6 @@ To view this project:
 5. View at your pleasure. 🌴
 
 If you have questions or concerns, feel free to contact me at my email.\
-My Email: vchi.dev@proto.me
+My Email: vchi.dev@proton.me
 
 Thank You (● ◡ ●)
